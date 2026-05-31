@@ -59,5 +59,8 @@ Designing a fully relational database with multiple relationships.
 Writing complex SQL queries with joins, subqueries, and aggregates.
 Using foreign keys to ensure data integrity.
 Populating a database with realistic healthcare data.
-🏁 Conclusion
+# Conclusion
 The Clinic Management System demonstrates how a well-designed relational database can simplify medical data management. By combining structured schema design, meaningful relationships, and practical SQL queries, this project offers a scalable solution for real-world clinic operations. Future work could integrate a web-based interface and authentication system to make it production-ready
+## link video
+# https://youtu.be/jOIMgLKBAy0?si=zxj2mybS5W6dkdIi.
+
