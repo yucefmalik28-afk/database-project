@@ -7,8 +7,8 @@ Design and implement a normalized relational database for clinical operations.
 Enable efficient CRUD operations (Create, Read, Update, Delete).
 Write practical SQL queries for healthcare use cases.
 Maintain data integrity using relationships and constraints.
-# Database Structure
-Entities & Attributes
+## Database Structure
+# Entities & Attributes
 
 Department – DepartmentID, Name
 Clinic – ClinicID, Name, Address, DepartmentID
